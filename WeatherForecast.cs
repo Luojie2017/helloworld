@@ -13,5 +13,6 @@ namespace WebApplication1
         public string Summary { get; set; }
 
         public string Remark { get; set; }
+        public string abc{get;set;}
     }
 }
